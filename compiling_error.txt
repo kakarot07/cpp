@@ -1,0 +1,16 @@
+C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:27: error: stray '\' in program
+   cout<<"enter a number :"\';
+                           ^
+C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:28: warning: missing terminating ' character
+   cout<<"enter a number :"\';
+                            ^
+C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:28: error: missing terminating ' character
+   cout<<"enter a number :"\';
+                            ^~
+C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp: In function 'int main()':
+C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:27: error: expected ';' before 'cin'
+   cout<<"enter a number :"\';
+                           ^
+                           ;
+   cin>>b;
+   ~~~                      
