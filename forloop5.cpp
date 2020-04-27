@@ -3,9 +3,10 @@
 using namespace std;
 int main()
 {
+
   int i,b,sum=0;
-  cout<<"enter a number :"\';
-  cin>>b;
+  cout<<"enter a number :";
+    cin>>b;
   for(i=1;i<=b;i++){
     cout<<i<<endl;
     sum=sum+i;

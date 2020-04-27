@@ -1,16 +1,4 @@
-C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:27: error: stray '\' in program
-   cout<<"enter a number :"\';
-                           ^
-C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:28: warning: missing terminating ' character
-   cout<<"enter a number :"\';
-                            ^
-C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:28: error: missing terminating ' character
-   cout<<"enter a number :"\';
-                            ^~
-C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp: In function 'int main()':
-C:\Users\Anas\Documents\Atom\document\cpp\forloop5.cpp:7:27: error: expected ';' before 'cin'
-   cout<<"enter a number :"\';
-                           ^
-                           ;
-   cin>>b;
-   ~~~                      
+C:\Users\Anas\Documents\Atom\practice\stack_2.cpp:1:10: fatal error: iostream.h: No such file or directory
+ #include <iostream.h>
+          ^~~~~~~~~~~~
+compilation terminated.
